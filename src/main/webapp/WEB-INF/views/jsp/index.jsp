@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Kubernetes Blue & Green Deployment..!!</h2>			
+			<h2>Welcome To DevOps with AWS - 04-11-2023!!</h2>			
 		</div>	
 	</div>
 
